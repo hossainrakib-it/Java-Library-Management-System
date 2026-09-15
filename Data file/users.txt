@@ -1,0 +1,6 @@
+ADMIN|A001|Rakib|rakib|rakib123
+ADMIN|A002|Tanvir|tanvir|tanvir123
+USER|U001|Devid|devid|devid123
+USER|U002|Jack|jack|jack123
+USER|U003|Angela|angela|angela123
+USER|U004|Adam|adam|adam123

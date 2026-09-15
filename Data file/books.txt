@@ -1,0 +1,6 @@
+B001|Harry Potter Part 1|J.K. Rowling|3
+B002|Harry Potter Part 2|J.K. Rowling|3
+B003|Harry Potter Part 3|J.K. Rowling|4
+B004|The Hobbit|J.R.R. Tolkien|2
+B005|The Alchemist|Paulo Coelho|2
+B006|Clean Code|Robert C. Martin|1
